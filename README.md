@@ -4,7 +4,7 @@ This package contains the source code necessary to run the material described in
 
 This paper have 3 projects: YOLO, FAST R-CNN and the main implementation - DETR.
 
-All the data are taken from kaggle data-science-bowl-2018 competition: https://www.kaggle.com/c/data-science-bowl-2018/data
+The data is taken from the Kaggle data-science-bowl-2018 competition: https://www.kaggle.com/c/data-science-bowl-2018/data
 
-To run the code the data have to sit in the same main directory under stage1_train
+To run the code the data has to sit in the same main directory under stage1_train
 & stage1_test
